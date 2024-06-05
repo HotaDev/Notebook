@@ -35,3 +35,8 @@
 - docker-compose build - сборки файлов
 - docker-compose up - для запуска контейнеров
 - php artisan migrate - для миграции данных в бд
+
+Для запуска приложения испрользовать команды:
+
+- composer update
+- docker-compose up
