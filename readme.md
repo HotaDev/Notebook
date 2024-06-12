@@ -7,6 +7,7 @@
 1.3. GET /api/v1/notebook/<id>/
 1.4. POST /api/v1/notebook/<id>/
 1.5. DELETE /api/v1/notebook/<id>/
+
 Поля для POST запискной книжки:
 
 1. ФИО (обязательное)
